@@ -1,0 +1,31 @@
+img{
+    width:190px;
+    height: 100px;
+    }
+.nepar{
+    background-color:white;
+    }
+.par{
+    background-color: #E9ECEF;
+    }
+#naslov{
+    color: gray;
+    font-size: 28px;
+    text-align: center;    
+    }
+div {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    }
+table{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    }
+table thead tr{
+    border: 3px solid #000000;
+                 }
+th{
+    font-weight: bold;
+  }
